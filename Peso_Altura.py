@@ -20,4 +20,4 @@ imc = peso_kg / (estatura_metros ** 2)
 
 # Mostramos el IMC 
 
-print(nombre + " Su índice de masa corporal (IMC) es: {:.2f}".format(imc))
+print(nombre + " ,su índice de masa corporal (IMC) es: {:.2f}".format(imc))
